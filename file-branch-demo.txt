@@ -1,0 +1,22 @@
+Selamat datang di file-branch-demo! ^_^
+Di sini, korang akan mencoba untuk melakukan coding
+collaborations dengan metode branching, so pas mau 
+dicommit, kodingan-nya gak ambyarrr...
+
+Let's try this :
+
+<something>
+{
+    Isi apa aja dah, yay! :v
+}
+
+So, let's do it! :)
+
+
+<fitur_login>
+{
+    Bagian atas
+    Bagian tengah
+    Bagian bawah
+}
+
