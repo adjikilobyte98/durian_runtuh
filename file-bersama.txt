@@ -1,0 +1,15 @@
+Selamat Datang kat file-bersama! ^_^
+The Fleet Command from USS Poros is asking us to do something
+with this file, so it wouldn't feel heeehhhh anymore.
+
+#Monggo, ini bagian edit-editan :
+
+Okay, so this is just a basic text file...
+Your missions is to edit this file so you can see the diff
+and see the merging proccess on the GIT...
+You can add, edit, alter, etc...
+Try it out! ^_^
+
+#dan ini bagian penambahan :
+
+Add something below, lur... ^_^
