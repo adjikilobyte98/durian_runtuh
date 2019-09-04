@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'Trebuchet MS', 'CataneoBT';
+     src: url(file:///C|/Users/Acer/Downloads/onepage_poros-master/onepage_poros-master/public/fonts/TrebuchetMS.ttf);
+	 src:url(file:///C|/Users/Acer/Downloads/onepage_poros-master/onepage_poros-master/public/fonts/CataneoBT.ttf);
+   }
+
+#section0, #section1, #section2, #section3{
+    background: linear-gradient(to bottom ,#add278,#4fb66f);
+}
+
+#header{
+    position:fixed;
+    display:block;
+    width: 100%;
+    background: transparent;
+    z-index:9;
+    text-align:center;
+    padding-top: 1.5%;
+    padding-left: 4%;
+    opacity: 0.4;
+}
+#logo{
+    height: 70px;
+    width: auto;
+    float: left;
+}
+.left-side{
+    height: 60%; 
+    width: 5%; 
+    position:absolute; 
+    left:0%; 
+    bottom: 15%;
+    border-right: 2px solid white;
+}
+.content-logo{
+    height: 70%; 
+    position:absolute; 
+    left: 25%;
+    bottom: 10%;
+    
+}
+.menu{
+    height: 60%; 
+    position:absolute; 
+    left: 5%;
+    bottom: 15%;
+    
+}
+.submenu{
+    height: 33.333333333%;
+    
+}
+.submenu > a{
+    color: white;
+    font-weight: 500;
+}
+.submenu > a:hover{
+    color: white;
+    text-decoration: none;
+}
+.text-submenu{
+    margin-bottom : 0;
+    width: 300px;    
+    font-weight: 10;
+    font-style: italic;
+    font-size: 0.95rem;
+}
+
+.dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 25px;
+    background-color: #fff;
+    display: inline;
+    float: left;
+    margin-right: 30px;
+    margin-left: -4px;
+    margin-top: 9px;
+}
+
+.content-text{
+    height: 100%; 
+    position:absolute; 
+    left: 60%;
+    top: 10%;
+    width: 35%;
+    
+}
+.char-title{
+    margin: 0;
+    font-size: 5vw;
+    line-height: 3rem;
+    padding-bottom: 40px;
+    text-align: left;
+
+}
+.char-title.static{
+    color: white;		
+    font-size: 6vw;    
+    font-weight: 800;
+}
+
+.char-title.type{
+    color: #000;
+    opacity: 0.3;
+    font-style: italic;
+    line-height: 1;
+}
+.text-typing{
+    position: absolute;
+    text-align: left;
+}
+.text-static{
+    margin-top: 10%;
+}
+.text-bottom{
+    margin-top: 40%;
+    text-align: left;
+}
+.text-bottom > p{
+    font-style: italic;
+    color: #fff;
+    margin-top: -20px;
+    text-align: left;
+    font-size: 2vw;
+    font-weight: 200;
+
+}
+.cquote{
+    margin-left:500px;
+}
+#cursor{
+    font-size: 5rem;
+    line-height: 3rem;
+    opacity: 0.3;
+    font-style: normal;
+}
+
+.teks-bag1{
+    margin-top: 20%;}
+	
+.teks-bag2{
+    margin-top: 20%;}
+	
+.par1{
+    margin-top: 30%;}
+.par2{
+    margin-top: 30%;}
+
+.char-bag1{
+    margin: 0;
+	position:absolute;
+    font-size: 5vw;
+	font-style:italic;
+	font-weight:600;
+    line-height: 1rem;
+    padding-bottom:25px;
+	left:10%;
+    top:20%;
+    text-align: left;}
+	
+.char-bag2{
+    margin: 0;
+	position:absolute;
+    font-size: 6vw;
+	font-style:italic;
+	font-weight:600;
+    line-height: 2rem;
+    padding-bottom:25px;
+    top: 50%;
+	right:10%;
+    text-align: right;}
+	
+	
+.char-par1{
+    margin: 0;
+	position:absolute;
+    font-size: 2vw;
+	font-weight:200;
+	font-family:"1 Cataneo BT";
+    top:30%;
+	left:17.5%;
+    text-align: left;}
+	
+.char-par2{
+    margin: 0;
+	position:absolute;
+    font-size: 1.5vw;
+	font-family:"1 Cataneo BT";
+    line-height: 3 rem;
+	top:40%;
+	right:10%;
+    text-align: right;}
+	
+	
+@media (min-width: 768px) {
+    
+}
